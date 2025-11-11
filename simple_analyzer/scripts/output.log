@@ -1,0 +1,148 @@
+2
+18
+Even count: 1
+Odd count: 0
+Highest: 90
+Increasing pairs: 0
+
+Even count: 1
+Odd count: 1
+Highest: 90
+Increasing pairs: 0
+
+Even count: 2
+Odd count: 1
+Highest: 90
+Increasing pairs: 0
+
+Even count: 2
+Odd count: 2
+Highest: 90
+Increasing pairs: 1
+
+Even count: 3
+Odd count: 2
+Highest: 90
+Increasing pairs: 1
+
+Even count: 3
+Odd count: 3
+Highest: 90
+Increasing pairs: 1
+
+Even count: 3
+Odd count: 4
+Highest: 90
+Increasing pairs: 2
+
+Even count: 4
+Odd count: 4
+Highest: 90
+Increasing pairs: 3
+
+Even count: 5
+Odd count: 4
+Highest: 90
+Increasing pairs: 3
+
+Even count: 6
+Odd count: 4
+Highest: 90
+Increasing pairs: 4
+
+Even count: 6
+Odd count: 5
+Highest: 90
+Increasing pairs: 4
+
+Even count: 6
+Odd count: 6
+Highest: 99
+Increasing pairs: 5
+
+Even count: 7
+Odd count: 6
+Highest: 99
+Increasing pairs: 5
+
+Even count: 7
+Odd count: 7
+Highest: 99
+Increasing pairs: 5
+
+Even count: 8
+Odd count: 7
+Highest: 99
+Increasing pairs: 6
+
+Even count: 8
+Odd count: 8
+Highest: 99
+Increasing pairs: 6
+
+Even count: 9
+Odd count: 8
+Highest: 99
+Increasing pairs: 6
+
+Even count: 9
+Odd count: 9
+Highest: 99
+Increasing pairs: 7
+
+Even count: 8
+Odd count: 10
+Highest: 99
+Increasing pairs: 7
+
+Even count: 8
+Odd count: 10
+Highest: 99
+Increasing pairs: 7
+
+Even count: 7
+Odd count: 11
+Highest: 99
+Increasing pairs: 7
+
+Even count: 7
+Odd count: 11
+Highest: 99
+Increasing pairs: 8
+
+Even count: 6
+Odd count: 12
+Highest: 99
+Increasing pairs: 8
+
+Even count: 6
+Odd count: 12
+Highest: 99
+Increasing pairs: 7
+
+Even count: 7
+Odd count: 11
+Highest: 99
+Increasing pairs: 7
+
+Even count: 6
+Odd count: 12
+Highest: 99
+Increasing pairs: 7
+
+Even count: 6
+Odd count: 12
+Highest: 99
+Increasing pairs: 7
+
+Even count: 6
+Odd count: 12
+Highest: 99
+Increasing pairs: 7
+
+Even count: 7
+Odd count: 11
+Highest: 99
+Increasing pairs: 7
+
+Conditions met! Ending loop.

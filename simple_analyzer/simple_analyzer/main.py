@@ -22,9 +22,11 @@ while True:
     print("Odd count:", analyzer.odd_count())
     print("Highest:", analyzer.highest_number())
     print("Increasing pairs:", analyzer.increasing_pairs())
+    print("something new here")
     print()
     current_sec = time.localtime().tm_sec
     if len(analyzer.numbers) >= seq_len and current_sec == 0:
         print("Conditions met! Ending loop.")
         break
     time.sleep(int_val)
+

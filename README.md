@@ -1,1 +1,1 @@
-Davit Azizyan simple_tracker
+Davit Azizyan simple_analyzer
